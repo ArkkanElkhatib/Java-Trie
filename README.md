@@ -1,4 +1,4 @@
-��# Java-Trie
+# Java-Trie
 
 Implementation of the Trie data structure in Java
 
