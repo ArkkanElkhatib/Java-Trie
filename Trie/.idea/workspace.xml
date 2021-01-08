@@ -31,20 +31,20 @@
   <component name="RunManager" selected="Application.TriMapTester">
     <configuration name="TriMapTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TriMapTester" />
-      <module name="Assignment5-Base-Code" />
+      <module name="Trie" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TrieMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrieMap" />
-      <module name="Assignment5-Base-Code" />
+      <module name="Trie" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="Assignment5-Base-Code" />
+      <module name="Trie" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -57,7 +57,7 @@
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Assignment5-Base-Code" />
+      <module name="Trie" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
